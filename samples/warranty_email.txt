@@ -1,0 +1,26 @@
+Subject: Your AppleCare+ coverage is expiring soon
+
+Dear Customer,
+
+This is a reminder that your AppleCare+ coverage for the following device is nearing its expiration date:
+
+Device: MacBook Pro 14-inch (2024)
+Serial Number: C02X1234HKDT
+AppleCare+ Plan ID: AC-2024-78901
+
+Coverage expiration date: July 10, 2026
+Purchase date: July 10, 2024
+Original device price: $1,999.00
+AppleCare+ price paid: $279.00
+
+Your coverage includes:
+- Hardware repair coverage
+- Up to 2 incidents of accidental damage (subject to service fee)
+- Battery service coverage
+
+After your coverage expires, repairs will be charged at standard out-of-warranty pricing.
+
+To extend your coverage or learn about your options, visit support.apple.com/applecare or contact Apple Support.
+
+Best regards,
+Apple Support
